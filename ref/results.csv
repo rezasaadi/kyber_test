@@ -1,0 +1,7 @@
+Operation,Latency(ms)
+NTT (forward),0.001245
+INTT,0.001894
+Sampling (rejection),0.000400
+Modular reduction,0.000015
+Packing/Unpacking,0.000185
+Other,0.000561
